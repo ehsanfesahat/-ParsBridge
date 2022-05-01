@@ -1,2 +1,2 @@
 # -ParsBridge
-I want to create Bridge website of Token.
+I create Bridge website of Token which everyone without obstcale can Trade.
